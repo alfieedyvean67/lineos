@@ -1,1 +1,8 @@
+VENDIST LINEOS
 
+This is a open source operating system free of charge. We don't accept people remaking it then selling it if you do legal action will be taken.
+You can modify this OS if you wish. 
+
+You CANNOT resell this or take our source code and remake it into a paid operating system.
+
+ Failure to abide by the rules legal action will take place.
